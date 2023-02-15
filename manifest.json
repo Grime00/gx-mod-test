@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "mod test",
+    "description": "blank",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "temp.png"
+    },
+    "developer":
+    {
+        "name": "Opera Software"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "background_music":
+            [
+                "better days.mp3"
+            ]
+        }
+    }
+}
